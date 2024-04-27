@@ -1,0 +1,82 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Himanya Verma
+ID:      169051154
+Email:   verm1154@mylaurier.ca
+Version: 2024-01-18
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Foods with origin Indian:
+Butter Chicken - Indian
+Chicken Kabob - Indian
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Average calories: 791.4418604651163
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Average Calories for Ethiopian: 138.0
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Food                                Origin          Vegetarian      Calories  
+---------------------------------   --------------  --------------  --------  
+BBQ Pork                            Chinese         No              920       
+Beef with Green Pepper              Chinese         No              251       
+Butter Chicken                      Indian          No              490       
+Canada Goose Chili                  Canadian        No              199       
+Canuck Burger                       Canadian        No              7500      
+Chamuco                             Mexican         Yes             150       
+Chicken Chow Mein                   Chinese         No              178       
+Chicken Kabob                       Indian          No              167       
+Chicken Wings                       American        No              298       
+Chip Butty                          English         Yes             956       
+Chirashi Don                        Japanese        No              600       
+Crepe                               Italian         Yes             186       
+Diet Free-Range Gluten-free Water   American        Yes             0         
+Fettuccine                          Italian         No              266       
+Fricot                              Canadian        No              360       
+Fried Rice                          Chinese         No              425       
+General Tao Chicken                 Chinese         No              850       
+Greek Salad                         Greek           Yes             185       
+Grilled Salmon                      Canadian        No              511       
+Hokey Pokey Ice Cream               New Zealand     Yes             106       
+Kung Pao Chicken                    Chinese         No              229       
+Lasagna                             Italian         No              135       
+Lemon Chicken                       Chinese         No              226       
+Moo Goo Guy Pan                     Chinese         No              272       
+Natto                               Japanese        Yes             212       
+Orange Chicken                      Chinese         No              800       
+Panzerotti                          Italian         No              770       
+Pavlova                             New Zealand     Yes             272       
+Pepperoni Pizza                     Italian         No              713       
+Poutine                             Canadian        No              710       
+Ravioli                             Italian         No              246       
+Shark Fin Soup                      Chinese         No              46        
+Shortbread                          Scottish        Yes             502       
+Spanakopita                         Greek           Yes             260       
+Spicy Vegetable Moo Shu             Chinese         Yes             140       
+Spring Rolls                        Chinese         Yes             200       
+Sweet and Sour Pork                 Chinese         No              231       
+Szechuan Shrimp                     Chinese         No              516       
+Teppanyaki                          Japanese        No              200       
+Teriyaki                            Japanese        No              233       
+Turducken                           American        No              12240     
+Vegetable Alicha                    Ethiopian       Yes             138       
+Vegetables with Cashew Nuts         Chinese         Yes             143       
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Origin country (1-11): 2
+Maximum calories: 1000
+Vegetarian? (Yes/No): no
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Butter Chicken                      Indian       False      490     
+Chicken Kabob                       Indian       False      167     
