@@ -1,0 +1,239 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Himanya Verma
+ID:      169051154
+Email:   verm1154@mylaurier.ca
+Version: 2024-01-24
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Queue after insertions: [22, 33, 11, 55, 44]
+Current length of the queue: 5
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Removed from the front of the queue: 10
+Removed from the front of the queue: 20
+Removed from the front of the queue: 30
+Peeked at the front of the queue: 99
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Array to Queue:
+Inital state of the queue: []
+Inital state of the source list: [1, 2, 3, 4, 5]
+Final state of the queue: [1, 2, 3, 4, 5]
+Final state of the source list: []
+
+Queue to Array:
+Initial state of the queue: [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]
+Initial state of the target list: []
+Final state of the queue: []
+Final state of the target list: [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]
+
+Queue testing
+Is queue empty: True
+Queue after inserting 10: False
+Queue after inserting 20: [10, 20]
+Front value of the queue: 10
+Length of the queue: 2
+Removed value from the front of the queue: 10
+Queue after removal: [20]
+Is queue empty after removal: False
+Removed value from the front of the queue: 20
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Priority Queue after insertions: [10, 5, 20, 15, 8]
+Peeked at the highest priority value: 5
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Priority Queue after removals: []
+Removed values: [5, 8, 10, 15, 20]
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Is priority queue empty? False
+Peeked at the highest priority value: Name: BBQ Pork
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 920
+
+Priority Queue after removals:
+Name: BBQ Pork
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 920
+Name: Beef with Green Pepper
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 251
+Name: Butter Chicken
+Origin: Indian
+Vegetarian: Non-Vegetrian
+Calories: 490
+Name: Canada Goose Chili
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 199
+Name: Canuck Burger
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 7500
+Name: Chamuco
+Origin: Mexican
+Vegetarian: Vegetarian
+Calories: 150
+Name: Chicken Chow Mein
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 178
+Name: Chicken Kabob
+Origin: Indian
+Vegetarian: Non-Vegetrian
+Calories: 167
+Name: Chicken Wings
+Origin: American
+Vegetarian: Non-Vegetrian
+Calories: 298
+Name: Chip Butty
+Origin: English
+Vegetarian: Vegetarian
+Calories: 956
+Name: Chirashi Don
+Origin: Japanese
+Vegetarian: Non-Vegetrian
+Calories: 600
+Name: Crepe
+Origin: Italian
+Vegetarian: Vegetarian
+Calories: 186
+Name: Diet Free-Range Gluten-free Water
+Origin: American
+Vegetarian: Vegetarian
+Calories: 0
+Name: Fettuccine
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 266
+Name: Fricot
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 360
+Name: Fried Rice
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 425
+Name: General Tao Chicken
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 850
+Name: Greek Salad
+Origin: Greek
+Vegetarian: Vegetarian
+Calories: 185
+Name: Grilled Salmon
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 511
+Name: Hokey Pokey Ice Cream
+Origin: New Zealand
+Vegetarian: Vegetarian
+Calories: 106
+Name: Kung Pao Chicken
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 229
+Name: Lasagna
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 135
+Name: Lemon Chicken
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 226
+Name: Moo Goo Guy Pan
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 272
+Name: Natto
+Origin: Japanese
+Vegetarian: Vegetarian
+Calories: 212
+Name: Orange Chicken
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 800
+Name: Panzerotti
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 770
+Name: Pavlova
+Origin: New Zealand
+Vegetarian: Vegetarian
+Calories: 272
+Name: Pepperoni Pizza
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 713
+Name: Poutine
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 710
+Name: Ravioli
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 246
+Name: Shark Fin Soup
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 46
+Name: Shortbread 
+Origin: Scottish
+Vegetarian: Vegetarian
+Calories: 502
+Name: Spanakopita
+Origin: Greek
+Vegetarian: Vegetarian
+Calories: 260
+Name: Spicy Vegetable Moo Shu
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 140
+Name: Spring Rolls
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 200
+Name: Sweet and Sour Pork
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 231
+Name: Szechuan Shrimp
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 516
+Name: Teppanyaki
+Origin: Japanese
+Vegetarian: Non-Vegetrian
+Calories: 200
+Name: Teriyaki
+Origin: Japanese
+Vegetarian: Non-Vegetrian
+Calories: 233
+Name: Turducken
+Origin: American
+Vegetarian: Non-Vegetrian
+Calories: 12240
+Name: Vegetable Alicha
+Origin: Ethiopian
+Vegetarian: Vegetarian
+Calories: 138
+Name: Vegetables with Cashew Nuts
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 143
