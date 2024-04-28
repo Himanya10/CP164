@@ -1,0 +1,243 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Himanya Verma
+ID:      169051154
+Email:   verm1154@mylaurier.ca
+Version: 2024-01-17
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+True
+55
+False
+55
+True
+44
+False
+44
+True
+33
+False
+33
+True
+22
+False
+22
+True
+11
+False
+11
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Stack after transferring elements from the source list: [5, 4, 3, 2, 1]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Target list after transferring elements from the stack: [11, 22, 33, 44, 55]
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Is the stack empty? True
+1
+2
+3
+4
+5
+6
+7
+8
+Is the stack empty?: False
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Is the stack empty? True
+Name: Macaroni
+Origin: Ethiopian
+Vegetarian: Vegetarian
+Calories: 1900
+Name: Lasagna
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 135
+Name: Butter Chicken
+Origin: Indian
+Vegetarian: Non-Vegetrian
+Calories: 490
+Name: Moo Goo Guy Pan
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 272
+Name: Vegetable Alicha
+Origin: Ethiopian
+Vegetarian: Vegetarian
+Calories: 138
+Name: Spanakopita
+Origin: Greek
+Vegetarian: Vegetarian
+Calories: 260
+Name: Chirashi Don
+Origin: Japanese
+Vegetarian: Non-Vegetrian
+Calories: 600
+Name: Canuck Burger
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 7500
+Name: Turducken
+Origin: American
+Vegetarian: Non-Vegetrian
+Calories: 12240
+Name: Shark Fin Soup
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 46
+Name: Chamuco
+Origin: Mexican
+Vegetarian: Vegetarian
+Calories: 150
+Name: Natto
+Origin: Japanese
+Vegetarian: Vegetarian
+Calories: 212
+Name: Canada Goose Chili
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 199
+Name: Diet Free-Range Gluten-free Water
+Origin: American
+Vegetarian: Vegetarian
+Calories: 0
+Name: Kung Pao Chicken
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 229
+Name: General Tao Chicken
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 850
+Name: Spicy Vegetable Moo Shu
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 140
+Name: BBQ Pork
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 920
+Name: Orange Chicken
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 800
+Name: Vegetables with Cashew Nuts
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 143
+Name: Lemon Chicken
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 226
+Name: Beef with Green Pepper
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 251
+Name: Sweet and Sour Pork
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 231
+Name: Szechuan Shrimp
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 516
+Name: Poutine
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 710
+Name: Teppanyaki
+Origin: Japanese
+Vegetarian: Non-Vegetrian
+Calories: 200
+Name: Greek Salad
+Origin: Greek
+Vegetarian: Vegetarian
+Calories: 185
+Name: Fettuccine
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 266
+Name: Teriyaki
+Origin: Japanese
+Vegetarian: Non-Vegetrian
+Calories: 233
+Name: Shortbread 
+Origin: Scottish
+Vegetarian: Vegetarian
+Calories: 502
+Name: Pavlova
+Origin: New Zealand
+Vegetarian: Vegetarian
+Calories: 272
+Name: Hokey Pokey Ice Cream
+Origin: New Zealand
+Vegetarian: Vegetarian
+Calories: 106
+Name: Fricot
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 360
+Name: Chip Butty
+Origin: English
+Vegetarian: Vegetarian
+Calories: 956
+Name: Grilled Salmon
+Origin: Canadian
+Vegetarian: Non-Vegetrian
+Calories: 511
+Name: Ravioli
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 246
+Name: Crepe
+Origin: Italian
+Vegetarian: Vegetarian
+Calories: 186
+Name: Fried Rice
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 425
+Name: Pepperoni Pizza
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 713
+Name: Chicken Kabob
+Origin: Indian
+Vegetarian: Non-Vegetrian
+Calories: 167
+Name: Panzerotti
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 770
+Name: Spring Rolls
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 200
+Name: Chicken Chow Mein
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 178
+Name: Chicken Wings
+Origin: American
+Vegetarian: Non-Vegetrian
+Calories: 298
+Top Stack Value: Name: Macaroni
+Origin: Ethiopian
+Vegetarian: Vegetarian
+Calories: 1900
+New Top Stack Value: Name: Lasagna
+Origin: Italian
+Vegetarian: Non-Vegetrian
+Calories: 135
+Is the stack empty?: False
