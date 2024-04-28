@@ -1,0 +1,172 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Himanya Verma
+ID:      169051154
+Email:   verm1154@mylaurier.ca
+Version: 2024-01-31
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+None
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+None
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Original List:
+[]
+[10]
+
+After inserting 10 at index 2:
+[10]
+[20, 10]
+
+After inserting 20 at index -1 (appending):
+[20, 10]
+[20, 10, 30]
+
+After inserting 30 at index 10 (appending):
+[20, 10, 30]
+
+After appending 10:
+[20, 10, 30, 10]
+
+After appending 20:
+[20, 10, 30, 10, 20]
+
+After appending 30:
+[20, 10, 30, 10, 20, 30]
+
+Value 30 removed:
+[20, 10, 10, 20, 30]
+
+Key not found.
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+[10]
+[10, 20]
+[10, 20, 30]
+[10, 20, 30, 40]
+[10, 20, 30, 40, 50]
+Original List:
+[10, 20, 30, 40, 50]
+
+Found value for key '30': 30
+
+50 is in the list.
+
+Number of occurrences of 30: 1
+Number of occurrences of 60: 0
+
+Maximum value in the list: 50
+
+Minimum value in the list: 10
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+[10]
+[10, 20]
+[10, 20, 30]
+[10, 20, 30, 40]
+[10, 20, 30, 40, 50]
+Original List:
+[10, 20, 30, 40, 50]
+
+Value at index 2: 30
+Attempted to access an invalid index: Invalid index value
+
+After setting value 35 at index 2:
+[10, 20, 35, 40, 50]
+
+After setting value 55 at index 4:
+[10, 20, 35, 40, 55]
+Attempted to set value at an invalid index: Invalid index value
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Source List:
+[1, 2, 3, 4, 5]
+[5]
+[4, 5]
+[3, 4, 5]
+[2, 3, 4, 5]
+[1, 2, 3, 4, 5]
+
+List after array_to_list:
+[1, 2, 3, 4, 5]
+[10]
+[10, 20]
+[10, 20, 30]
+[10, 20, 30, 40]
+[10, 20, 30, 40, 50]
+
+Original List:
+[10, 20, 30, 40, 50]
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+the list should be empty None
+is empty false now: None
+
+append and peek the value None
+
+[<Food.Food object at 0x100710f50>, <Food.Food object at 0x100710f10>, <Food.Food object at 0x1007108d0>]
+insert a food at index 0
+
+Name: good spring rolls
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 7
+Name: not spring rolls
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 66
+Name: spring rolls wrong
+Origin: Indian
+Vegetarian: Vegetarian
+Calories: 653
+
+What is the maximum food? Name: spring rolls wrong
+Origin: Indian
+Vegetarian: Vegetarian
+Calories: 653
+
+What is the minimum food? Name: good spring rolls
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 7
+
+find any instances spring rolls wrong:
+does it contain key? True
+how many times? 2
+remove spring rolls wrong Name: good spring rolls
+Origin: Chinese
+Vegetarian: Vegetarian
+Calories: 7
+
+update the list at index 1
+the first variable in the list is Name: not spring rolls
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 66
+Name: not spring rolls
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 66
+Name: Chickie Nuggies
+Origin: Chinese
+Vegetarian: Non-Vegetrian
+Calories: 66
+the index Chickie Nuggies is -1
+
+finding chickie nuggies...
+None
