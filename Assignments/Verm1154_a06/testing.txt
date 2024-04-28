@@ -1,0 +1,80 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Himanya Verma
+ID:      169051154
+Email:   verm1154@mylaurier.ca
+Version: 2024-02-17
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Check the first element in the queue: A
+
+The removed element from queue is: A
+
+The length of the queue is
+2
+
+Is the queue empty
+False
+
+Is the queue full?
+False
+
+After combining, the queue is: ['B', 'C', 'E', 'F', 'G', 'H']
+
+After splitting, source1 is: ['B', 'E', 'G'], source2 is: ['C', 'F', 'H']
+
+Are source1 and source2 equal? False
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Highest priority: 
+1
+
+Remove element
+1
+
+Queue lenght: 
+3
+
+Is the queue empty
+False
+
+After splitting, pq1 is: [2], pq2 is: [3, 4]
+
+Are pq1 and pq2 equal? False
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+1
+2
+
+Remove front: 
+1
+Remove rear: 
+2
+
+Is the queue empty: 
+True
+
+Length: 
+0
+
+IS both queue equal: 
+True
+
+Equal: True
+
+Values in Deque:
+1
+2
+
+Front after swap:  2
+Rear after swap:  1
+
+-------------------------------------------------------
