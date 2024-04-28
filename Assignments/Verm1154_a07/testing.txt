@@ -1,0 +1,42 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Himanya Verma
+ID:      169051154
+Email:   verm1154@mylaurier.ca
+Version: 2024-01-24
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Testing completed. Results saved to 'food_test.txt'
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+List: [Food(Apple, Fruit, True, 95), Food(Banana, Fruit, True, 105), Food(Orange, Fruit, True, 62), ...]
+Count: 3
+Max: Food(Orange, Fruit, True, 62)
+Min: Food(Apple, Fruit, True, 95)
+Index of 'Banana': 1
+Contains 'Apple': True
+Peek: Food(Apple, Fruit, True, 95)
+Remove 'Banana': True
+List after removal: [Food(Apple, Fruit, True, 95), Food(Orange, Fruit, True, 62), ...]
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Quiz on MyLS
+
+
+
+
+
+
+
+
+
+
